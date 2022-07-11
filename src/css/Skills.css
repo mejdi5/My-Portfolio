@@ -1,0 +1,33 @@
+.skills-container {
+    margin-top: 5em;
+    background-color: var(--bg-over);
+    height: auto;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills-section {
+    margin: 5em 0;
+}
+
+.skills-panel {
+    line-height: 1.75em;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.skills-highlight {
+    color: var(--primary-color);
+    text-shadow: 0 0 2px var(--primary-color);
+}
+
+@media screen and (min-width: 1024px) {
+    .skills-panel {
+        text-align: left;
+        padding-left: 2.5em;
+        border-left: 1px solid rgba(255, 255, 255, 0.068);
+    }
+}
