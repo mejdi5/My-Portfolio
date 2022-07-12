@@ -252,7 +252,7 @@ export let experience = {
     experiences: [ // Preferably, sort by newest first
         {
         companyLogo: jQueryCertificate, // Leave Blank for Template Logo
-        companyName: "JQuery cetification", // Company Name
+        companyName: "JQuery certification", // Company Name
         companyLocation: "LinkedIn Learning", // Location of Company
         roles: [ // Each company can have multiple Roles
             {
@@ -330,7 +330,7 @@ export let skills = {
         { title: 'MongoDB', value: 25, color: '#09EBEE', experience: '1 year',
         description: 'Database management with mongoose'},
         { title: 'Others', value: 15, color: '#00FEEF', experience: '1 year',
-        description: 'Technologies such as TypeScript, JQuery, mySQL, VueJS, ..'},
+        description: 'Technologies such as TypeScript, JQuery, mySQL, VueJS, React Native..'},
     ],
 }
 
