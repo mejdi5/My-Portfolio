@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8f0cb84.chunk.css",
+    "main.js": "/static/js/main.213f0ef5.chunk.js",
+    "main.js.map": "/static/js/main.213f0ef5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.081f420c.chunk.css": "/static/css/2.081f420c.chunk.css",
+    "static/js/2.81b6fce6.chunk.js": "/static/js/2.81b6fce6.chunk.js",
+    "static/js/2.81b6fce6.chunk.js.map": "/static/js/2.81b6fce6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.b8f0cb84.chunk.css.map": "/static/css/main.b8f0cb84.chunk.css.map",
+    "static/js/2.81b6fce6.chunk.js.LICENSE.txt": "/static/js/2.81b6fce6.chunk.js.LICENSE.txt",
+    "static/media/Certificat - OpenClassrooms.602a9066.png": "/static/media/Certificat - OpenClassrooms.602a9066.png",
+    "static/media/DIPLOME.4f3e63d1.JPG": "/static/media/DIPLOME.4f3e63d1.JPG",
+    "static/media/Fullstack_JS_Certification.3d84b83c.png": "/static/media/Fullstack_JS_Certification.3d84b83c.png",
+    "static/media/image-mejdi.3072a72c.jpg": "/static/media/image-mejdi.3072a72c.jpg",
+    "static/media/jQuery_Certificate.31661373.png": "/static/media/jQuery_Certificate.31661373.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.81b6fce6.chunk.js",
+    "static/css/main.b8f0cb84.chunk.css",
+    "static/js/main.213f0ef5.chunk.js"
+  ]
+}
