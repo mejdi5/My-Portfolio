@@ -111,11 +111,25 @@ export let aboutMe = {
 
 export let portfolioCards = [
     {
+        projectTitle: "Headbook",
+        projectDesc: {
+        line1: "A social media website for users who wants to interact with friends, send invitations, add, like and comment posts." , 
+        line2: "Technology: MERN stack with TypeScript, Redux-toolkit and Firebase." ,
+        line3: "Authentication: Usage of Firebase Authentication.",
+        line4: "Image upload with Firebase Storage.",
+        line5: "Realtime notifications using socket.io library.",
+        line6: "Designing the application with styled-components package."
+        }
+        ,
+        projectsURL: ["https://github.com/mejdi5/headbook_social-media"],
+        Link: "https://head-book.herokuapp.com/"
+    },
+    {
         projectTitle: "Beauty Commerce",
         projectDesc: {
         line1: "An e-commerce website useful for users to buy products by adding them to cart and submitting orders" , 
         line2: "Technology: MERN stack with TypeScript" ,
-        line3: "Authentification: JWT for generating tokens and CryptoJs for hashing passwords, nodemailer for sending emails to user to reset password and verify account.",
+        line3: "Authentication: JWT for generating tokens and CryptoJs for hashing passwords, nodemailer for sending emails to user to reset password and verify account.",
         line4: "Payment with card using Stripe.",
         line5: "Admin can manage users, products, carts and users. Customer can manage his account, buy products and pay orders."
         }
@@ -270,7 +284,7 @@ export let experience = {
         companyLocation: "Online", // Location of Company
         roles: [ // Each company can have multiple Roles
             {
-                role: "OpenClassroom",
+                role: "OpenClassrooms",
                 type: "Part-Time", // Full-Time, Part-Time, Internship, etc...
                 startPeriod: "September 2021", // Preferable format
                 endPeriod: "", // End result will look like "Apr 2020 - Present"
@@ -330,7 +344,7 @@ export let skills = {
         { title: 'MongoDB', value: 25, color: '#09EBEE', experience: '1 year',
         description: 'Database management with mongoose'},
         { title: 'Others', value: 15, color: '#00FEEF', experience: '1 year',
-        description: 'Technologies such as TypeScript, JQuery, mySQL, VueJS, React Native..'},
+        description: 'Technologies such as TypeScript, JQuery, mySQL, Firebase, VueJS, React Native..'},
     ],
 }
 
