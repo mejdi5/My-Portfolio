@@ -113,11 +113,11 @@ export let portfolioCards = [
     {
         projectTitle: "Headbook",
         projectDesc: {
-        line1: "A social media website for users who wants to interact with friends, send invitations, add, like and comment posts." , 
+        line1: "A social media website for users who wants to interact with friends, send invitations, add, like and comment posts and chat with each other." , 
         line2: "Technology: MERN stack with TypeScript, Redux-toolkit and Firebase." ,
-        line3: "Authentication: Usage of Firebase Authentication.",
+        line3: "Authentication: Usage of Firebase Auth.",
         line4: "Image upload with Firebase Storage.",
-        line5: "Realtime notifications using socket.io library.",
+        line5: "Realtime chat using socket.io library.",
         line6: "Designing the application with styled-components package."
         }
         ,
