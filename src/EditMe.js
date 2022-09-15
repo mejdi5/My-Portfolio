@@ -111,6 +111,18 @@ export let aboutMe = {
 
 export let portfolioCards = [
     {
+        projectTitle: "Foot Prediction",
+        projectDesc: {
+        line1: "Technology: MERN stack and Redux-toolkit." ,
+        line2: "A website where users can enjoy football by predicting matches results." ,
+        line3: "At the end of each fixture, the admin calculates all users scores.",
+        line4: "Every user can see his score and rank in the standing table.",
+        }
+        ,
+        projectsURL: ["https://github.com/mejdi5/Football_Prediction"],
+        Link: "https://foot-prediction.netlify.app/"
+    },
+    {
         projectTitle: "Headbook",
         projectDesc: {
         line1: "A social media website for users who wants to interact with friends, send invitations, add, like and comment posts and chat with each other." , 
