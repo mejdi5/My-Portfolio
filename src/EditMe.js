@@ -111,6 +111,20 @@ export let aboutMe = {
 
 export let portfolioCards = [
     {
+        projectTitle: "Messenging",
+        projectDesc: {
+        line1: "A realtime chat application using React, Firebase and Context API." ,
+        line2: "Usage of Firebase Authentication to login and register users." ,
+        line3: "Usage of Firebase Storage for image uploading.",
+        line4: "Usage of Firebase Firestore for storing documents and collections in database.",
+        line5: "Usage of Context API for managing state.",
+        line6: "Usage of SCSS for style and media query for responsive design."
+        }
+        ,
+        projectsURL: ["https://github.com/mejdi5/Chat-App"],
+        Link: "https://messenging.netlify.app"
+    },
+    {
         projectTitle: "Foot Prediction",
         projectDesc: {
         line1: "Technology: MERN stack and Redux-toolkit." ,
